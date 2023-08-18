@@ -1,3 +1,13 @@
 pandas
 scikit-learn==1.3.*
 flask
+seaborn
+pyjanitor
+tensorflow==2.8.0
+tensorflow_io==0.23.1
+tensorflow-text==2.8.0
+tensorflow-gcs-config==2.8.0
+tensorflow-gpu==2.8.0
+tensorflow-estimator==2.8.0
+#mamba install cudatoolkit==11.2.0
+#mamba install cudnn==8.1.*
